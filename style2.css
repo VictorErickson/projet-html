@@ -1,0 +1,86 @@
+body{
+    background-color:rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: black;
+}
+nav{
+    display: inline-block;
+    width: 800px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-family: 'lato',sans-serif;
+    box-sizing: border-box;
+}
+nav ul
+{
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+    margin-right: 17px;
+}
+nav a
+{ 
+    font-size: 1.3em;
+    color: black;
+    padding-bottom: 5px;
+    text-decoration: none;
+
+}
+nav a:hover{
+    color: goldenrod;
+    border-bottom: 5px solid rgb(32, 32, 51);
+}
+img{
+   
+    width: 800px;
+    padding: 80px;
+}
+video{
+    width: 800px;
+    padding: 80px;
+}
+
+.titre  {
+    font-size: 1.3em;
+    color: black;
+    padding-bottom: 5px;
+    text-decoration: none;
+    list-style-type: none;
+}
+aside
+{
+    position: relative;
+    width: 235px;
+    background-color:rgb(235, 247, 238);
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+    font-size: 0.9em;
+    float: right;
+    padding:3em 
+}
+footer
+{
+    height: 1px;
+    width: 1500px;
+    background-color:whitesmoke;
+    box-shadow:0px 2px 5px  rgb(56, 34, 5);
+    text-align: center;
+    margin-bottom: 150px;
+    text-transform: initial;
+    font-size: 30px;
+}
+footer:hover{
+    color: red;
+}
+
+footer h1
+{
+    font-size: 15em;
+}
+.dubai1{
+    width: 800px;
+    padding: 80px;
+}
